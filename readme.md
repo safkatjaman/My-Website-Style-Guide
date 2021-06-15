@@ -17,12 +17,15 @@ Prerequisites
 To complete this project, you should have completed the Codecademy lessons covering the CSS box model, display and positioning, colors, and typography. You can use more advanced CSS layout concepts like flexbox, CSS grid, or responsive design, but they won’t be required.
 
 Project Requirements
+---
 2.
 In this project, you’ll build a style guide/design system for your website. Developers and designers use design systems in order to organize the look and feel of a website or web application. Design systems help to document the visual vocabulary and reusable components of a large website.
 
 As your websites grow larger and more complex, having a consistent set of styles will help them stay cohesive and enjoyable for users! It also helps as you start working with other developers, as you can have a consistent reference for how your website should be built.
 
 Your style guide/design system will include at least a section on colors, fonts, and specific text styles, but it can be extended to as many other areas as you’d like. You can take a look at our basic example site for a taste of what you’ll be building (yours will be customized).
+
+---
 
 3.
 Your style guide should include a labeled section outlining the colors to be used.
@@ -33,6 +36,9 @@ A name (you can come up with this name yourself)
 A box displaying the color itself.
 The CSS value used to create the color (in hex, rgb(), rgba(), hsl(), or hsla()).
 An optional description of how you intend to use the colors.
+
+---
+
 4.
 Your style should include a labeled section of the fonts to be used (we recommend importing fonts from Google Fonts).
 
@@ -42,6 +48,8 @@ The font name
 A series of styles that you intend to use (for example, styles could include: plain, bold and italic, underlined).
 For each style, include a sentence or series of words to demonstrate the text style (our example site uses the quick brown fox…).
 Make sure to display each of the sections in the proper font, size, and style.
+
+---
 
 5.
 In addition to the list of possible fonts, your style guide should include a section for specific text styles for page elements. For example, you could set main heading (< h1 >) guidelines about text size, fonts, font styles, font weight, and more.
